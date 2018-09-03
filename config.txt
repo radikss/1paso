@@ -1,0 +1,6 @@
+token=NDg2MjM2NzY3NTk1Mzk3MTMw.Dm8LAg.l4qm5m4SSb5mJqZAl6ags_lWypI
+owner=201460488037466112
+prefix=1
+game=1help - RadiKS Joky
+stayinchannel=true
+songinstatus=true
